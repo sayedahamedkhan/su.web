@@ -1,0 +1,112 @@
+.name {
+
+  margin-left: 500px;
+}
+
+.id {
+  margin-left: 500px;
+}
+
+.project {
+  margin-left: 500px;
+}
+
+table {
+  margin-left: 350px;
+  margin-top: 20px;
+
+}
+.table-2{
+  margin-top: -40px;
+}
+
+.from {
+  width: 600px;
+  height: 400px;
+  background-color:papayawhip;
+  border-radius: 15px;
+  margin-left: 350px;
+  border: 60px solid burlywood ;
+  border-radius: 7px;
+ 
+}
+
+.sign {
+  background-color: grey;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 30px;
+  width: 150px;
+margin-left: 180px;
+
+
+font-weight: bold;
+
+
+
+}
+
+.cancel {
+
+  background-color: grey;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 30px;
+  width: 150px;
+  margin-left: 180px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  
+  
+}
+.wel{
+margin-left: 10;
+color:black;
+font-weight: bold;
+font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: -50px;
+margin-left: 180px;
+
+}
+
+.admin{
+  margin-left: 180px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 35px;
+  border-bottom: 5px solid red;
+  border-radius: 3px;
+
+}
+
+.user{
+
+
+  margin-left: 180px;
+  color: black;
+ 
+}
+.input-1{
+  margin-left: 180px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+.input-2{
+  margin-left: 180px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+.password{
+  margin-left: 180px;
+  margin-top: 20px;
+  color:black;
+}
+
+
+p {
+  font-weight: bold;
+  font-size: 30px;
+  color:black;
+  margin-left: 420px;
+}
